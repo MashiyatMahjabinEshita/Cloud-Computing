@@ -14,6 +14,5 @@ Here are two reference books you might read to expand your knowledge, suggested 
 ## 📄 Final Project Paper to SOUPS 2024
 This is the final project paper that was submitted to and published at the USENIX Symposium on Usable Privacy and Security (SOUPS 2024).  
 
-🔗 **Google Scholar Link:** 
-https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q6DopxEAAAAJ&citation_for_view=q6DopxEAAAAJ:Y0pCki6q_DkC
+🔗 [Google Scholar – SOUPS 2024 Paper](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=q6DopxEAAAAJ&citation_for_view=q6DopxEAAAAJ:Y0pCki6q_DkC)
 
